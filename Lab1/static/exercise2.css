@@ -1,0 +1,31 @@
+/* ---------- Exercise 2: Student Info ---------- */
+#exercise2 {
+    max-width: 500px;
+    margin: 40px auto;
+    background: #fafafa;
+    padding: 20px;
+    border-left: 5px solid #d9822b;
+    border-radius: 4px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+  }
+  #exercise2 h2 {
+    color: #d9822b;
+    margin-bottom: 15px;
+  }
+  #exercise2 ul {
+    list-style: none;
+    padding: 0;
+  }
+  #exercise2 li {
+    background: #fff;
+    margin: 8px 0;
+    padding: 10px 12px;
+    border-radius: 4px;
+    border: 1px solid #e0e0e0;
+    display: flex;
+    justify-content: space-between;
+  }
+  #exercise2 li:nth-child(odd) {
+    background: #fefefe;
+  }
+  

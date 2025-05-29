@@ -1,0 +1,29 @@
+/* ---------- Exercise 1: Linear Equation ---------- */
+body {
+    background: #f0f8ff;
+    font-family: 'Segoe UI', Tahoma, sans-serif;
+    color: #333;
+  }
+  #exercise1 {
+    max-width: 500px;
+    margin: 40px auto;
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    text-align: center;
+  }
+  #exercise1 h2 {
+    color: #2a6592;
+    margin-bottom: 10px;
+  }
+  #exercise1 .equation {
+    font-size: 1.4em;
+    margin: 15px 0;
+  }
+  #exercise1 .result {
+    font-size: 1.8em;
+    font-weight: bold;
+    color: #d9534f;
+  }
+  

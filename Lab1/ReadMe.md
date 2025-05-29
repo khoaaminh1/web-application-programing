@@ -9,4 +9,5 @@ kết quả ex 1&2:
 Kết quả ex 3:
 <img width="1512" alt="Screenshot 2025-05-29 at 19 23 18" src="https://github.com/user-attachments/assets/5f9113c1-3035-4691-bf4d-a369301611fb" />
 sau khi nhập thông tin ex 3:
-<img width="1512" alt="Screenshot 2025-05-29 at 19 36 50" src="https://github.com/user-attachments/assets/3e7a8284-e60d-4a11-907b-dd0ad318ca0c" />
+<img width="1512" alt="Screenshot 2025-05-29 at 19 58 40" src="https://github.com/user-attachments/assets/e7f96782-f4f1-41aa-8c9f-520583ca8066" />
+

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Submission Result</title>
+  <!-- Dùng lại CSS của exercise3 -->
+  <link rel="stylesheet"
+        href="{{ url_for('static', filename='exercise3.css') }}">
+</head>
+<body>
+  <section id="exercise3">
+    <h2>Submission Received</h2>
+    <p>
+      Submitted:<br>
+      Username: <strong>{{ username }}</strong><br>
+      Password: <strong>{{ password }}</strong><br>
+      Gender: <strong>{{ gender }}</strong><br>
+      Membership: <strong>{{ membership }}</strong><br>
+      Favorite Color: <span style="display:inline-block; width:1em; height:1em; background:{{ favcolor }};"></span><br>
+      Correct: <strong>{{ correct }}</strong>
+    </p>
+    <p><a href="{{ url_for('index') }}">← Back to form</a></p>
+  </section>
+</body>
+</html>

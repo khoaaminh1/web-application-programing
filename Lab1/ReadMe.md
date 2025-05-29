@@ -1,4 +1,4 @@
-<img width="1508" alt="Screenshot 2025-05-29 at 19 22 11" src="https://github.com/user-attachments/assets/564626bc-9452-4e6e-84f5-6d8444492d88" />Flask version on terminal:
+Flask version on terminal:
 <img width="1070" alt="Screenshot 2025-05-29 at 19 07 25" src="https://github.com/user-attachments/assets/2d82d838-b485-4c58-b446-94005eb7425e" />
 pymongo:
 <img width="1074" alt="Screenshot 2025-05-29 at 19 09 39" src="https://github.com/user-attachments/assets/6e1a1501-3b30-498d-9bc6-1fd632558bdf" />

@@ -1,4 +1,4 @@
-<img width="1505" alt="Screenshot 2025-06-09 at 08 28 50" src="https://github.com/user-attachments/assets/16e42d61-5d39-4d99-9026-c705847fca2e" />ThôngTin1.html:
+ThôngTin1.html:
 <img width="1512" alt="Screenshot 2025-06-09 at 08 25 25" src="https://github.com/user-attachments/assets/4966a11d-6789-4624-8e60-57221e5e8087" />
 ThôngTin3.html:
 <img width="1506" alt="Screenshot 2025-06-09 at 08 26 40" src="https://github.com/user-attachments/assets/a9c9ca3c-838f-4670-8957-a58179ef5396" />

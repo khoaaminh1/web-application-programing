@@ -11,5 +11,6 @@ register.html:
 signup.html:
 <img width="1507" alt="Screenshot 2025-06-12 at 08 58 19" src="https://github.com/user-attachments/assets/759e1880-eb21-4747-87d5-1c7c86571b21" />
 survey.html:
-![Uploading Screenshot 2025-06-12 at 08.58.51.png…]()
+<img width="1512" alt="Screenshot 2025-06-12 at 08 59 35" src="https://github.com/user-attachments/assets/33b71fb1-2497-4b24-9fb8-c5a0b8c8f68c" />
+
 

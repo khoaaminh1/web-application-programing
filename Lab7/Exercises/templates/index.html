@@ -1,44 +1,27 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
     <meta charset="UTF-8">
-    <title>Quản Lý Sinh Viên</title>
-    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <title>Lab Menu</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='Style.css') }}">
 </head>
 <body>
-    <h1>Danh sách sinh viên</h1>
-    <a href="{{ url_for('add') }}">Thêm sinh viên</a>
-    <form action="{{ url_for('filter_major') }}" method="get" style="display:inline;">
-        <select name="major" onchange="this.form.submit()">
-            <option value="">Tất cả ngành</option>
-            {% for m in majors if majors %}
-            <option value="{{ m }}" {% if m == selected_major %}selected{% endif %}>{{ m }}</option>
-            {% endfor %}
-        </select>
-    </form>
-    <table>
-        <tr>
-            <th>Họ tên</th>
-            <th>Tuổi</th>
-            <th>Giới tính</th>
-            <th>Ngành</th>
-            <th>Hành động</th>
-        </tr>
-        {% for s in students %}
-        <tr>
-            <td>{{ s.name }}</td>
-            <td>{{ s.age }}</td>
-            <td>{{ s.gender }}</td>
-            <td>{{ s.major }}</td>
-            <td>
-                <a href="{{ url_for('edit', id=s._id) }}">Sửa</a>
-                <a href="{{ url_for('delete', id=s._id) }}" onclick="return confirm('Bạn có chắc muốn xoá?');">Xoá</a>
-            </td>
-        </tr>
-        {% endfor %}
-    </table>
-    <hr>
-    <a href="{{ url_for('search') }}">Tìm kiếm theo tên chính xác</a> |
-    <a href="{{ url_for('search_fuzzy') }}">Tìm kiếm gần đúng theo tên</a>
+    <h1>Chọn chức năng Lab 7</h1>
+    <ul class="menu">
+        <li><a href="{{ url_for('exercise1') }}">1. Xem danh sách sinh viên</a></li>
+        <li><a href="{{ url_for('exercise2') }}">2. Thêm sinh viên</a></li>
+        <li><a href="{{ url_for('exercise5') }}">5. Tìm kiếm tên chính xác</a></li>
+        <li><a href="{{ url_for('exercise6') }}">6. Tìm kiếm gần đúng</a></li>
+        <li><a href="{{ url_for('exercise7') }}">7. Lọc ngành</a></li>
+        <li><a href="{{ url_for('exercise8') }}">8. Đếm số sinh viên từng ngành</a></li>
+        <li><a href="{{ url_for('exercise9') }}">9. Bảng điểm các môn</a></li>
+        <li><a href="{{ url_for('exercise10') }}">10. Hiển thị GPA</a></li>
+        <li><a href="{{ url_for('exercise11') }}">11. Xếp loại học lực</a></li>
+        <li><a href="{{ url_for('exercise12') }}">12. Xem sinh viên giỏi (GPA ≥ 8)</a></li>
+        <li><a href="{{ url_for('exercise13') }}">13. Sinh viên GPA cao nhất</a></li>
+        <li><a href="{{ url_for('exercise14') }}">14. Lọc sinh viên theo tuổi</a></li>
+        <li><a href="{{ url_for('exercise15') }}">15. Lọc sinh viên theo giới tính</a></li>
+        <li><a href="{{ url_for('exercise16') }}">16. Xuất CSV</a></li>
+    </ul>
 </body>
 </html>

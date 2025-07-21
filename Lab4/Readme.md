@@ -28,6 +28,43 @@ ex14:
 <img width="1512" height="223" alt="Screenshot 2025-07-19 at 17 09 14" src="https://github.com/user-attachments/assets/c39aa8dc-8d75-495a-bc76-ae4a8783df04" />
 ex15:
 <img width="1512" height="581" alt="Screenshot 2025-07-19 at 17 09 46" src="https://github.com/user-attachments/assets/de19541b-1f94-47c3-bec7-7454b1f9fe44" />
+ex16:
+<img width="1512" height="132" alt="Screenshot 2025-07-22 at 01 24 45" src="https://github.com/user-attachments/assets/674659df-677e-4c8f-969d-120f0d5297b2" />
+ex17:
+<img width="1508" height="256" alt="Screenshot 2025-07-22 at 01 25 15" src="https://github.com/user-attachments/assets/7da17bf0-9a74-45fc-a334-c3a8cc35c4bf" />
+ex18:
+<img width="1512" height="236" alt="Screenshot 2025-07-22 at 01 25 43" src="https://github.com/user-attachments/assets/3f92bdee-9439-4440-b2c9-52aac1ce077a" />
+ex19:
+<img width="1512" height="524" alt="Screenshot 2025-07-22 at 01 26 05" src="https://github.com/user-attachments/assets/530f18c4-92c5-4613-8d58-5db232434b34" />
+ex20:
+<img width="1511" height="255" alt="Screenshot 2025-07-22 at 01 26 29" src="https://github.com/user-attachments/assets/32edc47a-4f9a-471e-af3e-9dd897cd0745" />
+ex21:
+<img width="1512" height="982" alt="Screenshot 2025-07-22 at 01 26 50" src="https://github.com/user-attachments/assets/296834db-286d-4300-92c3-128446c23000" />
+ex22:
+<img width="1512" height="153" alt="Screenshot 2025-07-22 at 01 27 19" src="https://github.com/user-attachments/assets/172a1483-a16f-402e-9d52-de5dd3a7bd6b" />
+ex23:
+<img width="1508" height="380" alt="Screenshot 2025-07-22 at 01 27 57" src="https://github.com/user-attachments/assets/6578fe0e-5a4b-4413-8751-5963acdc2c70" />
+ex24:
+<img width="1512" height="337" alt="Screenshot 2025-07-22 at 01 28 17" src="https://github.com/user-attachments/assets/134201d9-7212-4b28-94ab-2ba7054a54cc" />
+ex25:
+<img width="1512" height="327" alt="Screenshot 2025-07-22 at 01 28 40" src="https://github.com/user-attachments/assets/e06b98ad-a28c-4b70-b55a-f76600912655" />
+ex26:
+<img width="1512" height="278" alt="Screenshot 2025-07-22 at 01 28 59" src="https://github.com/user-attachments/assets/d8a35a70-29bd-4fca-8710-d52e07b76c89" />
+ex27:
+<img width="1507" height="355" alt="Screenshot 2025-07-22 at 01 29 20" src="https://github.com/user-attachments/assets/61bb7a93-5b09-432c-877d-df923b25cb36" />
+ex28:
+<img width="1512" height="889" alt="Screenshot 2025-07-22 at 01 29 43" src="https://github.com/user-attachments/assets/7e5d6656-b30f-4238-a954-6f09eb84c18d" />
+ex29:
+<img width="1512" height="242" alt="Screenshot 2025-07-22 at 01 30 12" src="https://github.com/user-attachments/assets/c49be790-2c37-4588-9bd8-041f2797e409" />
+ex30:
+<img width="1512" height="367" alt="Screenshot 2025-07-22 at 01 30 32" src="https://github.com/user-attachments/assets/f7350ae4-6f76-42f5-b307-798c5f20627e" />
+ex31:
+<img width="1512" height="328" alt="Screenshot 2025-07-22 at 01 30 55" src="https://github.com/user-attachments/assets/0a87eeb4-4a36-4f1d-85f8-fa72fb85c45c" />
+ex32:
+<img width="1512" height="212" alt="Screenshot 2025-07-22 at 01 31 21" src="https://github.com/user-attachments/assets/0b6b9698-a94e-46b8-8dcd-463fd38d0a8f" />
+ex33:
+<img width="1512" height="219" alt="Screenshot 2025-07-22 at 01 31 47" src="https://github.com/user-attachments/assets/904c664b-bd4f-4218-83eb-fc6551791664" />
+
 
 
 

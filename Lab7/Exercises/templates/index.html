@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Quản Lý Sinh Viên</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <h1>Danh sách sinh viên</h1>
+    <a href="{{ url_for('add') }}">Thêm sinh viên</a>
+    <form action="{{ url_for('filter_major') }}" method="get" style="display:inline;">
+        <select name="major" onchange="this.form.submit()">
+            <option value="">Tất cả ngành</option>
+            {% for m in majors if majors %}
+            <option value="{{ m }}" {% if m == selected_major %}selected{% endif %}>{{ m }}</option>
+            {% endfor %}
+        </select>
+    </form>
+    <table>
+        <tr>
+            <th>Họ tên</th>
+            <th>Tuổi</th>
+            <th>Giới tính</th>
+            <th>Ngành</th>
+            <th>Hành động</th>
+        </tr>
+        {% for s in students %}
+        <tr>
+            <td>{{ s.name }}</td>
+            <td>{{ s.age }}</td>
+            <td>{{ s.gender }}</td>
+            <td>{{ s.major }}</td>
+            <td>
+                <a href="{{ url_for('edit', id=s._id) }}">Sửa</a>
+                <a href="{{ url_for('delete', id=s._id) }}" onclick="return confirm('Bạn có chắc muốn xoá?');">Xoá</a>
+            </td>
+        </tr>
+        {% endfor %}
+    </table>
+    <hr>
+    <a href="{{ url_for('search') }}">Tìm kiếm theo tên chính xác</a> |
+    <a href="{{ url_for('search_fuzzy') }}">Tìm kiếm gần đúng theo tên</a>
+</body>
+</html>

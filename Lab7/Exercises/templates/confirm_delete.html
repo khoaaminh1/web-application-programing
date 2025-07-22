@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Xác nhận xoá sinh viên</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <h2>Bạn chắc chắn muốn xoá sinh viên "{{ student['name'] }}"?</h2>
+    <form method="post">
+        <button type="submit">Xoá</button>
+        <a href="{{ url_for('exercise1') }}">Huỷ</a>
+    </form>
+</body>
+</html>

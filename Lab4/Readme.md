@@ -64,6 +64,8 @@ ex32:
 <img width="1512" height="212" alt="Screenshot 2025-07-22 at 01 31 21" src="https://github.com/user-attachments/assets/0b6b9698-a94e-46b8-8dcd-463fd38d0a8f" />
 ex33:
 <img width="1512" height="219" alt="Screenshot 2025-07-22 at 01 31 47" src="https://github.com/user-attachments/assets/904c664b-bd4f-4218-83eb-fc6551791664" />
+AddEx1:
+![Uploading Screenshot 2025-07-22 at 07.55.17.png…]()
 
 
 

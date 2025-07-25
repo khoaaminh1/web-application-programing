@@ -40,7 +40,6 @@ Each lab is organized into a separate folder:
 
 This repository reflects my learning journey—starting from the basics of web programming to building full-featured, interactive, and database-driven web apps.
 
-> “Learning by doing is the best way to become a real web developer!”
 
 ---
 

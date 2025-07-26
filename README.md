@@ -36,9 +36,6 @@ Each lab is organized into a separate folder:
 2. Enter the folder for each lab and follow the instructions in the respective README.md or code comments.
 3. All code is well-structured for easy understanding and quick experimentation.
 
-## Highlight
-
-This repository reflects my learning journey—starting from the basics of web programming to building full-featured, interactive, and database-driven web apps.
 
 
 ---
